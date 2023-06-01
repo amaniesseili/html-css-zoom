@@ -32,4 +32,26 @@ header{
 }
 
 
+main{
+    margin-top: 10px;
+}
+.container{
+    max-width: 1350px;
+    margin: auto;
+    background-color: aquamarine;
+    height: 300px;
+}
+
+.roW{
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+}
+
+.personal-screen{
+    background-color: brown;
+    height: 150px;
+    width: 250px;
+}
+
 
