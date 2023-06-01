@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    min-height: 70px;
+    padding-top: 10px;
+    padding-right: 10px;
+    width: 100%;
+    
+
+}
+.container-flex{
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    
+}
+
+
+.button{
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(146, 142, 142);
+    padding: .2rem .5rem;
+    color: white;
+    justify-content: flex-end;
+    
+}
+
+
+
